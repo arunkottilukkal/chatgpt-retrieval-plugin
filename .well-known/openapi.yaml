@@ -4,7 +4,7 @@ info:
   description: A retrieval API for querying and filtering documents based on natural language queries and metadata
   version: 1.0.0
   servers:
-    - url: https://coral-app-njl9r.ondigitalocean.app
+    - url: https://urchin-app-iksnv.ondigitalocean.app
 paths:
   /query:
     post:
